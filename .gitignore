@@ -1,0 +1,13 @@
+# project
+cache
+data
+derived
+
+# markdown
+*html
+*_cache
+
+# misc
+.Rhistory
+.RData
+.DS_Store

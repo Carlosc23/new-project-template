@@ -1,8 +1,26 @@
-# A New Project Template
+# Project
 
-See `master` branch for details.
+If you want to play with the code, see [instructions below](#instructions).
 
-The `advanced` branch contains additional directories that you may consider
-using.
 
-See the README files in the directories for details.
+# Instructions
+
+`makefile` contains the recipe to re-run the entire analysis in this
+repository.
+
+Run code scripts from **this directory**, or use `makefile`.
+
+That is, do **not** do this...
+	
+	cd code
+	Rscript process.R
+
+... instead, do this:
+
+	Rscript code/process.R
+	
+	## or
+	
+	make all
+	make process
+	etc
