@@ -3,9 +3,10 @@ cache
 data
 derived
 
-# markdown
+# notebooks
 *html
 *_cache
+.ipynb_checkpoints
 
 # misc
 .Rhistory
