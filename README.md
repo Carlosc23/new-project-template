@@ -8,7 +8,10 @@ If you want to play with the code, see [instructions below](#instructions).
 `makefile` contains the recipe to re-run the entire analysis in this
 repository.
 
-Run code scripts from **this directory**, or use `makefile`.
+To rerun the entire analysis, from command line, type `make all` and press
+ENTER.
+
+Otherwise, run code scripts from **this directory**, or use `makefile`.
 
 That is, do **not** do this...
 	
