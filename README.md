@@ -5,7 +5,7 @@ If you want to play with the code, see [instructions below](#instructions).
 
 # Instructions
 
-`makefile` contains the recipe to re-run the entire analysis in this
+`Makefile` contains the recipe to re-run the entire analysis in this
 repository.
 
 To rerun the entire analysis, from command line, type `make all` and press
