@@ -11,7 +11,7 @@ repository.
 To rerun the entire analysis, from command line, type `make all` and press
 ENTER.
 
-Otherwise, run code scripts from **this directory**, or use `makefile`.
+Otherwise, run code scripts from **this directory**, or use `Makefile`.
 
 That is, do **not** do this...
 	
