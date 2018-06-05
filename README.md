@@ -2,6 +2,15 @@
 
 If you want to play with the code, see [instructions below](#instructions).
 
+# New project setup 
+
+```bash
+mkdir new-project
+cp -r ~/github/new-project-template/* .
+cd new-project
+git init
+git config user.email
+```
 
 # Instructions
 
